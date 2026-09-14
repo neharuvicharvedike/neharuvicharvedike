@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: Veeresh36/neharuVicharVedike
+  repo: neharuvicharvedike/neharuvicharvedike
   branch: main
-  base_url: https://neharu-vichar-vedike.vercel.app
+  base_url: https://neharuvicharvedike.vercel.app
   auth_endpoint: api/auth
 
 media_folder: "uploads"

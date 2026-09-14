@@ -9,8 +9,8 @@ export default async function handler(req, res) {
   }
 
   const token = process.env.GITHUB_TOKEN;
-  const owner = "Veeresh36";
-  const repo = "neharuVicharVedike";
+  const owner = "neharuvicharvedike";
+  const repo = "neharuvicharvedike";
   const path = "messages.json";
   const apiBase = `https://api.github.com/repos/${owner}/${repo}/contents/${path}`;
 
