@@ -1,7 +1,31 @@
 {
   "items": [
-    { "day": "15", "month": "MAR", "title_kn": "ಯುವ ಸಂವಾದ", "title_en": "Youth Dialogue", "location": "Bengaluru", "image": "uploads/youth dailogues.png", "link": "#" },
-    { "day": "22", "month": "APR", "title_kn": "ವಿಚಾರ ಸಂಕಿರಣ", "title_en": "Seminar on Democracy & Youth", "location": "Bengaluru", "image": "uploads/seminars.png", "link": "#" },
-    { "day": "05", "month": "MAY", "title_kn": "ಸಮುದಾಯ ಸೇವಾ ಕಾರ್ಯಕ್ರಮ", "title_en": "Community Initiative", "location": "Vijayanagar", "image": "uploads/community.png", "link": "#" }
+    {
+      "day": "15",
+      "month": "MAR",
+      "title_kn": "ಯುವ ಸಂವಾದ",
+      "title_en": "Youth Dialogue",
+      "location": "Bengaluru",
+      "image": "uploads/youth dailogues.png",
+      "link": "https://www.youtube.com/watch?v=WEyJ-zKAEoA"
+    },
+    {
+      "day": "22",
+      "month": "APR",
+      "title_kn": "ವಿಚಾರ ಸಂಕಿರಣ",
+      "title_en": "Seminar on Democracy & Youth",
+      "location": "Bengaluru",
+      "image": "uploads/seminars.png",
+      "link": "#"
+    },
+    {
+      "day": "05",
+      "month": "MAY",
+      "title_kn": "ಸಮುದಾಯ ಸೇವಾ ಕಾರ್ಯಕ್ರಮ",
+      "title_en": "Community Initiative",
+      "location": "Vijayanagar",
+      "image": "uploads/community.png",
+      "link": "#"
+    }
   ]
 }
